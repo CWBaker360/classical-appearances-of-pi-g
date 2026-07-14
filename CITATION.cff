@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it using the metadata below."
+title: "Classical Appearances of pi_g: A Geometric Substitution Note"
+type: article
+authors:
+  - family-names: Baker
+    given-names: Wayne
+date-released: 2026-07-05
+version: preprint-v1
+repository-code: "https://github.com/CWBaker360/classical-appearances-of-pi-g"
+url: "https://github.com/CWBaker360/classical-appearances-of-pi-g"
+abstract: >-
+  An expository note recording representative classical formulae in which pi
+  is rewritten as the geometric limiting constant pi_g after the identity
+  pi_g=pi has been established. The distinction between the exact completed
+  limit and finite approximants is emphasized, with a polygonal N-series and
+  Gaussian-normalization illustration.
+keywords:
+  - pi_g
+  - geometric pi
+  - geometric substitution
+  - N-series
+  - Gaussian integral
+  - polygonal approximation
+  - classical analysis
+license: proprietary
