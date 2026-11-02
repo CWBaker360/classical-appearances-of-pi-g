@@ -20,7 +20,7 @@ The expected final line is:
 normalized area: 0.99999999999999689
 ```
 
-The result is a 64-bit floating-point illustration, not a rigorous enclosure.
+The result is a binary64 floating-point illustration, not a rigorous enclosure. The omitted Gaussian tail outside [-6,6] is approximately 3.814274020654151e-17. The larger observed normalization discrepancy reflects floating-point accumulation. The console output archive excludes unrelated environment startup messages.
 
 ## Rebuild the paper
 
