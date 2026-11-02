@@ -1,3 +1,10 @@
+## Companion-note housekeeping — 2026-11-02
+
+- Clarified expository companion-note status without claiming new theorems.
+- Removed unrelated runtime startup traceback from the archived verification output.
+- Documented the binary64 and finite-window error distinctions.
+- Preserved the original manuscript and PDF.
+
 # Changelog
 
 ## preprint-v1 — 2026-07-05
