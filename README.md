@@ -2,7 +2,7 @@
 
 **Author:** Wayne Baker  
 **Date:** July 5, 2026  
-**Status:** Expository preprint / source and reproducibility archive
+**Status:** Expository companion note / source and reproducibility archive
 
 This repository contains the paper:
 
