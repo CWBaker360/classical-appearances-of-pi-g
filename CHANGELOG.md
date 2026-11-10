@@ -1,3 +1,11 @@
+## Zenodo publication — 2026-11-10
+
+- The original July 5, 2026 manuscript (preprint-v1) was deposited on Zenodo.
+- Record DOI: https://doi.org/10.5281/zenodo.24107857
+- Published metadata synchronized to GitHub citation and README files.
+- No changes to manuscript PDF, LaTeX source, numerical outputs or copyright notice.
+- Existing repository-wide historical SHA256SUMS.txt is not a checksum of this post-publication checkout; the deposited archive contains its own release-file manifest.
+
 ## Companion-note housekeeping — 2026-11-02
 
 - Clarified expository companion-note status without claiming new theorems.
