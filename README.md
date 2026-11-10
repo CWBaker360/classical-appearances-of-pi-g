@@ -16,12 +16,18 @@ under the established identification
 \pi_g=\pi.
 \]
 
-## Zenodo deposit preparation (November 10, 2026)
+## Zenodo publication (November 10, 2026)
 
-A proposed, **not-yet-published** Zenodo deposit is documented in
-[`ZENODO_RELEASE_HANDOFF_2026-11-10.md`](ZENODO_RELEASE_HANDOFF_2026-11-10.md).
-It provides the draft abstract, release-file selection, checksum and source/PDF
-verification gates, and rights cautions. No DOI is asserted until Zenodo issues one.
+**DOI:** [10.5281/zenodo.24107857](https://doi.org/10.5281/zenodo.24107857)  
+**Version:** preprint-v1  
+**Manuscript date:** July 5, 2026 (retained in the original PDF and TeX)  
+**Zenodo publication date:** November 10, 2026
+
+The Zenodo deposit includes the ten-page manuscript PDF and a reproducibility ZIP.
+The original TeX, paper and numerical material have not been rewritten for
+the deposit. Rights remain *Copyright © 2026 Wayne Baker. All rights reserved*.
+The [release preparation handoff](ZENODO_RELEASE_HANDOFF_2026-11-10.md)
+is retained as a historical prepublication checklist, not as the current status.
 
 ## Read the paper
 
