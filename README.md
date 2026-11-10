@@ -16,6 +16,13 @@ under the established identification
 \pi_g=\pi.
 \]
 
+## Zenodo deposit preparation (November 10, 2026)
+
+A proposed, **not-yet-published** Zenodo deposit is documented in
+[`ZENODO_RELEASE_HANDOFF_2026-11-10.md`](ZENODO_RELEASE_HANDOFF_2026-11-10.md).
+It provides the draft abstract, release-file selection, checksum and source/PDF
+verification gates, and rights cautions. No DOI is asserted until Zenodo issues one.
+
 ## Read the paper
 
 - [`paper/classical_appearances_of_pi_g.pdf`](paper/classical_appearances_of_pi_g.pdf)
