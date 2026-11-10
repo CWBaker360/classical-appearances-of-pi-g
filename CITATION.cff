@@ -5,10 +5,11 @@ type: article
 authors:
   - family-names: Baker
     given-names: Wayne
-date-released: 2026-07-05
+date-released: 2026-11-10
 version: preprint-v1
+doi: 10.5281/zenodo.24107857
 repository-code: "https://github.com/CWBaker360/classical-appearances-of-pi-g"
-url: "https://github.com/CWBaker360/classical-appearances-of-pi-g"
+url: "https://doi.org/10.5281/zenodo.24107857"
 abstract: >-
   An expository note recording representative classical formulae in which pi
   is rewritten as the geometric limiting constant pi_g after the identity
